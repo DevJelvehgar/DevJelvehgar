@@ -2,5 +2,5 @@
 
 
 
-Check out my Kaggle profile: [Kaggle Profile](https://www.kaggle.com/rezajelvehgar)
+Check out my Kaggle profile: ![Kaggle Badge](https://www.kaggle.com/rezajelvehgar)
 
