@@ -30,11 +30,13 @@ As of 2024, after completing my military service, I am working full-time as a da
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Excel](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Probability](https://img.shields.io/badge/-Probability-FF6F00?style=flat-square&logo=datacamp&logoColor=white)
+
 
 
 🤝 **Let’s Connect and Collaborate!**
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/reza-jelvehgar-b38046225/) or [Email](devjelvehgar@gmail.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/reza-jelvehgar-b38046225/) or [Email](mailto:devjelvehgar@gmail.com).
 
 
