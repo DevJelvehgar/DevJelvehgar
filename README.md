@@ -13,7 +13,7 @@ As of 2024, after completing my military service, I am working full-time as a da
 ### 🌐 Find Me Online:
 
 - 🌟 **Kaggle**: [Kaggle Profile](https://www.kaggle.com/rezajelvehgar)  
-- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com//in/reza-jelvehgar-b38046225/)   
+- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/reza-jelvehgar-b38046225/)   
 - 📷 **Instagram**: [YourUsername](https://www.instagram.com/rezajelvehgar.ir)  
 
 ---
