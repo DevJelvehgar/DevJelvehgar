@@ -1,11 +1,7 @@
 ## 👋 Hello, World! Welcome to My GitHub!
 
-I’m **Reza Jelvehgar**, a passionate **Data Analyst**,🌟  
-In September 2017, I entered the Software Engineering Department at Persian Gulf University in Bushehr, where I began studying algorithms, flowcharts, and programming in **C** and **C++**.<br>
-In March 2018, I started learning **C#** and completed a real estate consultant project using this language.<br>
-By 2019, I had begun learning **Python** and participated in various programming competitions. During this time, I also worked on a skin cancer diagnosis project that utilized artificial intelligence, engaged in research and development, and collected data. Additionally, I completed a class scheduling project using genetic algorithms.<br>
-For my bachelor's thesis, I focused on optimal vehicle routing algorithms with artificial intelligence.<br>
-As of 2024, I am working full-time as a **Data Analyst** after completing my military service. I have become proficient in Excel, statistics, probability, SQL, and various other analytical tools.<br><br>
+I’m **Reza Jelvehgar**, a passionate **AI Engineer**,🌟  
+As of 2024, I am working full-time as a **AI Engineer** after completing my military service. I have become proficient in python, machine learning, statistics, probability, SQL, and various other analytical tools.<br><br>
 💻 **Always learning and experimenting with new technologies.**
 
 ---
@@ -19,8 +15,8 @@ As of 2024, I am working full-time as a **Data Analyst** after completing my mil
 ---
 
 ### 🚀 What I’m Currently Working On:
-- 🤖 Learning and Solving challenges on Kaggle.
-- 📊 Learn Data Cleaning and EDA
+- 🤖 Machine learning and Deep learning.
+- 📊 Generative AI
 - 
 
 ---
