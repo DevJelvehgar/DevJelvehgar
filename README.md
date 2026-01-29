@@ -1,8 +1,7 @@
 ## 👋 Hello, World! Welcome to My GitHub!
 
 I’m **Reza Jelvehgar**, a passionate **AI Engineer**,🌟  
-As of 2025, I am working full-time as a **AI Engineer**  I have become proficient in python, machine learning, deep learning, fast-api,  statistics, probability, SQL, and various other analytical tools.<br><br>
-💻 **Always learning and experimenting with new technologies.**
+As of 2025, I am working full-time as a **AI Engineer**  
 
 ---
 
